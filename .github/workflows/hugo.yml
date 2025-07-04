@@ -50,7 +50,7 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Download PaperMod theme
         run: |
-          git clone --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+          git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
         working-directory: ./Fast-Free-News
     
       - name: Build with Hugo
