@@ -48,6 +48,11 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Download PaperMod theme
+        run: |
+          git clone --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+        working-directory: ./Fast-Free-News
+    
       - name: Build with Hugo
         working-directory: ./Fast-Free-News
         env:
