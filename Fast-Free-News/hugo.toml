@@ -2,3 +2,4 @@ baseURL = 'https://tuosito.it/'
 languageCode = 'it-it'
 title = 'Fast Free News'
 theme = 'PaperMod'
+googleAnalytics = "UA-XXXXXXXXX-X"
