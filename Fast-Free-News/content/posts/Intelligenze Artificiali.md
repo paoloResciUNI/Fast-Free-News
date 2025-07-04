@@ -1,5 +1,5 @@
 ---
-title: "Inteligenze artificiali"
+title: "Intelligenze artificiali"
 date: 2025-07-03
 draft: false
 ---
@@ -8,8 +8,20 @@ draft: false
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[Quo vadis artificial intelligence?](https://link.springer.com/article/10.1007/s44163-022-00022-8)
+> ### Sintesi divulgativa
+>
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat 
+>
+> [Quo vadis artificial intelligence?](https://link.springer.com/article/10.1007/s44163-022-00022-8)
 
-[On the Commoditization of Artificial Intelligence](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.696346/full)
+> ### Sintesi divulgativa
+>
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+>
+> [On the Commoditization of Artificial Intelligence](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.696346/full)
 
-[Artificial Intelligence in Pathology](https://synapse.koreamed.org/articles/1152382)
+> ### Sintesi divulgativa
+>
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+>
+> [Artificial Intelligence in Pathology](https://synapse.koreamed.org/articles/1152382)
