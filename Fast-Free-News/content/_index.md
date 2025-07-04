@@ -3,4 +3,4 @@ title: "Home"
 ---
 Fast Free News
 
-![Il mio logo](static/img/logo.png)
+![Logo]((/Fast-Free-News/static/img/logo.png)
