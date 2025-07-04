@@ -1,15 +1,16 @@
 ---
-title: "Inteligenze artificiali"
+title: "Disinformazione"
 date: 2025-07-03
 draft: false
 ---
 
-# Breve introduzione 
+# Breve introduzione
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[Quo vadis artificial intelligence?](https://link.springer.com/article/10.1007/s44163-022-00022-8)
+[Fake news, disinformation and misinformation in social media: a review](https://link.springer.com/article/10.1007/s13278-023-01028-5)
 
-[On the Commoditization of Artificial Intelligence](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.696346/full)
+[Visual disinformation in a digital age: A literature synthesis and research agenda](https://journals.sagepub.com/doi/full/10.1177/14614448221141648)
 
-[Artificial Intelligence in Pathology](https://synapse.koreamed.org/articles/1152382)
+[NUTRITION DISINFORMATION ON SOCIAL MEDIA: AN OVERVIEW](https://zenodo.org/records/15728023)

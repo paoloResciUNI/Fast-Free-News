@@ -3,4 +3,4 @@ title: "Home"
 ---
 Fast Free News
 
-![logo](Fast-Free-News/img/logo.png)
+![logo](/img/logo.png)
