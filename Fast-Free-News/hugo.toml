@@ -3,4 +3,4 @@ languageCode = 'it-it'
 title = 'Fast Free News'
 theme = 'PaperMod'
 [params]
-  logo = "static/img/logo.png"
+  logo = "/img/logo.png"
