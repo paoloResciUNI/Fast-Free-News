@@ -2,5 +2,5 @@ baseURL = 'https://paoloresciuni.github.io/Fast-Free-News/'
 languageCode = 'it-it'
 title = 'Fast Free News'
 theme = 'PaperMod'
-googleAnalytics = "UA-XXXXXXXXX-X"
-logo = "{{ "images/logo.png" | relURL }}"
+[params]
+  logo = "images/logo.png"
