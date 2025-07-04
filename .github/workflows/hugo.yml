@@ -61,12 +61,13 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://paoloresciuni.github.io/Fast-Free-News/"
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./Fast-Free-News/public
-
+        
   # Deployment job
   deploy:
     environment:
