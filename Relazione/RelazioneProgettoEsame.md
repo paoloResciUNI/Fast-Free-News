@@ -9,6 +9,10 @@ version: 0.1
 kind: Document
 bibliography: bibliografia.bib
 csl: IEEE.csl
+geometry: top=1.5cm,left=2cm,right=2cm,bottom=1.5cm
+papersize: a4
+fontsize: 13
+lang: it-IT
 ---
 
 ![Logo UNIMI](./logo/minerva.jpg){width=100px height=100px}
@@ -19,55 +23,58 @@ csl: IEEE.csl
 
 ## Introduzione
 
-Il progetto è un facsimile di come potrebbe essere un prodotto editoriale di consultazione di articoli open access. Nella traccia è richiesto di sviluppare uno strumento che consenta di consultare in maniera accessibile e veloce degli articoli open access in base all’argomento trattato. 
+Il progetto è un facsimile di come potrebbe essere un prodotto editoriale di consultazione di articoli open-access. Nella traccia è richiesto di sviluppare uno strumento che consenta di consultare in maniera accessibile e veloce articoli open-access in base all’argomento trattato.
 
-## Ideazione 
+## Ideazione
 
 ### Tema
-Il progetto presenta un modo comodo e veloce per cercare gli articoli più di tendenza di un macro argomento che si possono consultare e riutilizzare per la produzione di altri contenuti editoriali. 
+Il progetto presenta un modo comodo e veloce per cercare gli articoli più di tendenza di un macro argomento, che si possono consultare e riutilizzare per la produzione di altri contenuti editoriali.
 
-La possibilità di prendere informazioni direttamente dalle fonti, in qualunque momento, rende la consultazione delle pagine e degli articoli molto più rapida. 
+La possibilità di prendere informazioni direttamente dalle fonti, in qualunque momento, rende la consultazione delle pagine e degli articoli molto più rapida.
 
-Inoltre per ogni link ipertestuale ci sono dei brevi riassunti concisi che comunicano gli argomenti che saranno trattati nello specifico all’interno dell’articolo.   
+Inoltre, per ogni link ipertestuale ci sono brevi riassunti concisi che comunicano gli argomenti trattati nello specifico all’interno dell’articolo.
 
 ### Destinatari
-#### Alessandro  
+#### Alessandro
 
-Alessandro ha 23 anni è giornalista di gallarate tomorrow, specializzato in articoli in ambito sanitario.
+Alessandro ha 23 anni, è giornalista di Gallarate Tomorrow, specializzato in articoli in ambito sanitario.
 
-Alessandro guarda molto i social media per restare aggiornato e si informa soprattutto online cercando articoli scientifici di medicina pubblicati da ricercatori in tutto il mondo. 
+Alessandro guarda molto i social media per restare aggiornato e si informa soprattutto online cercando articoli scientifici di medicina pubblicati da ricercatori in tutto il mondo.
 
 #### Roberta
 
-Roberta ha 46 anni è giornalista presso il sole 12 ore, specializzata sopratutto nello spigare l'impatto economico che hanno le nuove tecnologie.
+Roberta ha 46 anni, è giornalista presso Il Sole 24 Ore, specializzata soprattutto nello spiegare l'impatto economico che hanno le nuove tecnologie.
 
-Roberta si informa sopratutto sul campo e dalle fonti fisiche e dalle conoscenze, ovviamente per restare aggiornata non può fare a meno di consultare gli articoli pubblicati online, usa poco i social media se non per svago.
+Roberta si informa soprattutto sul campo e dalle fonti fisiche e dalle conoscenze; ovviamente, per restare aggiornata non può fare a meno di consultare gli articoli pubblicati online. Usa poco i social media, se non per svago.
 
-#### Sandro 
+#### Sandro
 
-Sandro ha 36 anni, è un eco attivista e divulgatore scientifico.
+Sandro ha 36 anni, è un eco-attivista e divulgatore scientifico.
 
-Sandro ha molti contatti nel constesto universitario e consulta molto il web per cercare articoli da poter utilizzare per i suoi lavori editoriali (video, podcast, riviste...), è molto attivo sulle piattaforme di condivisione di contenuti online.
+Sandro ha molti contatti nel contesto universitario e consulta molto il web per cercare articoli da poter utilizzare per i suoi lavori editoriali (video, podcast, riviste...). È molto attivo sulle piattaforme di condivisione di contenuti online.
 
-Tutte le personas considerate per lo svolgimento del progetto sono individui che ne trarrebbero molti vantaggi (soprattutto Sandro). 
+Tutte le personas considerate per lo svolgimento del progetto sono individui che ne trarrebbero molti vantaggi (soprattutto Sandro).
 
-La possibilità di informarsi in maniera libera e di consultare direttamente le fonti è un vantaggio notevole per le personas considerate considerando anche il fatto che molto probabilmente quelle fonti le useranno per i loro progetti editoriali. 
-
+La possibilità di informarsi in maniera libera e di consultare direttamente le fonti è un vantaggio notevole per le personas considerate, considerando anche il fatto che molto probabilmente quelle fonti le useranno per i loro progetti editoriali.
 
 ### Modello di fruizione
-Il modello di fruizione segue un modello non lineare. Infatti gli utenti saltano da un articolo all’altro attraverso i collegamenti ipertestuali. Questo tipo di modello di fruizione mi sembra adeguato per il target di utenti elencati nella traccia del progetto. Il portale dal quale si può accedere ai link è pensato per essere graficamente il più semplice e navigabile possibile, questo per marcare il concetto di semplicità della piattaforma di reperimento dei contenuti. 
+Il modello di fruizione segue un approccio non lineare. Infatti, gli utenti saltano da un articolo all’altro attraverso i collegamenti ipertestuali. Questo tipo di modello di fruizione mi sembra adeguato per il target di utenti elencati nella traccia del progetto. Il portale dal quale si può accedere ai link è pensato per essere graficamente il più semplice e navigabile possibile, per marcare il concetto di semplicità della piattaforma di reperimento dei contenuti.
 
-Si è preso come standard di riferimento la pubblicazione di post su social come X o treads, la differenza con questa piattaforme è il pubblico di riferimento, che  è meno ampio. Inoltre gli utenti che fruiscono del web book non possono aggiungervi contenuti o commenti, questo per garantire la qualità del progetto.     
+Si è preso come standard di riferimento la pubblicazione di post su social come X o Threads; la differenza con queste piattaforme è il pubblico di riferimento, che è meno ampio. Inoltre, gli utenti che fruiscono del web book non possono aggiungervi contenuti o commenti, per garantire la qualità del progetto.     
 
 ### Canali di distribuzione
 Presentare i canali di distribuzione che si intendono raggiugnere e i formati dati richiesti da ogni canale. Esempi di canali sono: (i) Web, (ii) Social, (iii) Market place, (iv) Intranet. Esempi di formati. (i) Word, (ii) ePub, (iii) CBZ, (iv) PDF, (v) WebBook. 
 Proporre alcuni accenni relativi all'identità visuale e alle regole tipografiche o di stile che si intendono seguire. Nel settore esistono classi di documento standard? Dati gli obiettivi è importante trasmettere un senso di adesione a modelli già conosciuti o un senso di innovazione? Lo stile sarà orientato verso un'espressione formale o informale?
 
-I canali di distribuzione per questo prodotto sono: 
+I canali di distribuzione, richiesti nella traccia, per questo prodotto sono: 
 
-- **News letter**: Il web book è perfettamente adatto per questo canale di distribuzione, dove è possibile comunicare vari aggiornamenti relativi all’aggiunta di contenuti sul sito. 
-- **Social media**: il web book, pur non essendo direttamente fruibile sulla maggior parte delle piattaforme social più diffuse, può essere publicizzato 
-- **Blog**:
+- **News letter**: il web book è perfettamente adatto per questo canale di distribuzione, dove è possibile comunicare vari aggiornamenti relativi all’aggiunta di contenuti sul sito. 
+- **Social media**: il web book, pur non essendo direttamente fruibile sulla maggior parte delle piattaforme social più diffuse, può essere pubblicizzato su di esse.
+- **Blog**: il formato scelto è ideale per la pubblicazione su blog o siti web, in parte perché il prodotto segue un modello di aggiornamento e fruizione simile a questo tipo di canali.   
+
+Il formato principale di visualizzazione dei contenuti è il WebBook che per funzionare ha bisogno di pagine in markdown da poter convertire nei post del sito. 
+
+Come accennato nella sezione precedente, l’identità visuale del prodotto è pensata per essere il più semplice e fruibile possibile utilizzando uno dei temi forniti direttamente da Hugo, ovvero [PaperMod](https://github.com/adityatelange/hugo-PaperMod). Questo rende il prodotto più *anonimo* e formale, ma essendo un portale di consultazione di fonti aperte non mi è sembrato necessario dargli una forte identità visuale.    
 
 ## Processo di Produzione
 
@@ -80,61 +87,56 @@ Per prendere gli articoli che sono stati inseriti nel progetto sono stati utiliz
 - **PubMed Central **
 - **Unpaywall**: un’estensione per web browser che permette di determinare, nella maggior parte dei casi, se gli articoli visualizzati sono open-access o meno.
 
-L’inserimento di contenuti all’interno della piattaforma deve essere eseguito manualmente. 
+L’inserimento di contenuti all’interno della piattaforma deve essere eseguito manualmente, quindi non è un processo automatico. 
 
 ### Gestione documentale
 
-Descrivere il *flusso di gestione documentale* definito per il progetto. Ad esempio, (i) la raccolta o produzione dei contenuti, (ii) la valutazione dei diritti, (iii) la trasformazione dei formati, (iv) la strutturazione dei contenuti, (v) l'applicazione dello stile grafico, (vi) la generazione dei metadati, (vii) la distribuzione dei contenuti. Nella descrizione del flusso considerare le  fasi di revisione, controllo e approvazione che possono richiedere le diverse fasi.
-
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-```mermaid
-flowchart LR
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+A(Selezione dei contenuti) -- Verifica della licenza open-access --> B(Stesura del riassunto dell'articolo)
+B --> D{Pubblicazione articolo sul WebBook}
+D --> E(Condivisione del web book su piattafoprme social)
+D --> F(Condivisione del web book su blog)
+D --> G(Condivisione del web book su newsletter)
 ```
 
 ### Tecnologie adottate
 
-Le tecnologie adottate sono state: 
+Le tecnologie adottate sono state:
 
 - I file markdown, portatili e facili da modificare.
-- I web book, tecnologia principale del progetto che permette appunto di consultare gli articoli tramite collegamenti ipertestuali. I web book sono estremamente portabili, facili da mantenere e non hanno bisogno di tecnologie proprietarie. 
+- I web book, tecnologia principale del progetto che permette di consultare gli articoli tramite collegamenti ipertestuali. I web book sono estremamente portabili, facili da mantenere e non necessitano di tecnologie proprietarie.
 
-Il web book è stato scelto perché data la sua natura portabile si presta bene al compito assegnato per il progetto ed essendo una tecnologia relativamente recente e ancora in espansione è adattabile a diverse esigenze di pubblicazione. 
+Il web book è stato scelto perché, data la sua natura portabile, si presta bene al compito assegnato per il progetto ed essendo una tecnologia relativamente recente e ancora in espansione, è adattabile a diverse esigenze di pubblicazione.
 
-Per la produzione del web book è stato utilizzato [Hugo](https://github.com/gohugoio/hugo) che permette di trasformare le pagine markdown in “post” da inserire all’interno del web book che permettendo di visualizzare pagine html statiche, e [GitHub Actions](https://docs.github.com/en/actions) che permette di hostare il web book e di modificarlo senza installare Hugo e le sue dipendenze.
+Per la produzione del web book è stato utilizzato [Hugo](https://github.com/gohugoio/hugo), che permette di trasformare le pagine markdown in "post" da inserire all’interno del web book, consentendo di visualizzare pagine HTML statiche, e [GitHub Actions](https://docs.github.com/en/actions), che permette di ospitare il web book e di modificarlo senza installare Hugo e le sue dipendenze.
+
+Per l‘utilizzo delle GitHub Actions è stato impiegato il [workflow](https://docs.github.com/en/actions/concepts/workflows-and-actions/about-workflows) di Hugo fornito direttamente da GitHub, poi modificato in base alle esigenze del progetto.
 
 ### Esecuzione del flusso
 
-Allegare, possibilmente attraverso il riferimento ad un repository documentale, i materiali, gli script, le configurazioni, che permettono di riprodurre il flusso di produzione documentale. I contenuti non devono necessariamente essere completi, può essere sufficiente fornire un prototipo per ogni tipologia di contenuto previsto e per ogni formato di destinazione previsto.  
+- [Link alla repo del progetto](https://github.com/paoloResciUNI/Fast-Free-News)
+- [Link al WebBook](https://paoloresciuni.github.io/Fast-Free-News/)
 
 ## Valutazione dei risultati raggiunti
 
+Il progetto presentato permette agli utenti di ottenere in maniera facile e veloce articoli da consultare e riutilizzare. Ciò consente di risparmiare tutto il processo di verifica delle fonti e dei permessi degli articoli. La tecnologia utilizzata permette di gestire tutto il processo documentale (per chi carica gli articoli scientifici sul WebBook) in maniera rapida e semplice, con possibilità di aggiornare, modificare e rimuovere contenuti in tutta sicurezza, poiché tutte le modifiche vengono salvate e applicate solo dopo i commit su GitHub.
 
-### Valutazione del flusso di produzione
+Le tecnologie implementate permettono anche di migliorare il prodotto, aggiungendo funzionalità al tema usato o cambiandolo totalmente.
 
-Per valutare il contributo proposto valutare le diverse fasi del flusso in termini di (i) riduzione dei tempi di gestione documentale, (ii) riduzione degli errori, (iii) miglioramento della qualità dei documenti, (iv) miglioramento del livello di accettazione della tecnologia, (v) raggiungimento di nuovi canali di distribuzione, (vi) soddisfacimento di nuovi scenari d'uso.
+Senza le tecnologie implementate sarebbe stato necessario, per l’utente, ricercare manualmente gli articoli e verificarne personalmente le licenze open-access, magari in un ritaglio di tempo dedicato. Così invece si potrebbe consultare il WebBook in qualunque momento e, leggendo il riassunto per ogni articolo, salvare i link agli articoli che possono tornare più utili senza controllare eventuali licenze.
 
-### Confronto con lo stato dell'arte
+Tra le limitazioni più importanti emergono:
 
-Può anche essere utile confrontare una versione ASIS del flusso di gestione, senza la tecnologia o le innovazioni proposte, e una TOBE che include la tecnologia e le innovazioni proposte dallo studente.
+- La dipendenza da GitHub e dalle GitHub Actions per ospitare le pagine web.
+- La dipendenza dal mantenimento di Hugo (anche se è una tecnologia open source).
 
-### Limiti emersi
-
-È importante sottolineare i limiti emersi. Come l'impossibilità di accesso ad alcune tecnologie o fasi del flusso di gestione documentale, limiti nella automazione di alcune passi di trasformazione dei formati o di integrazione delle sorgenti
+Se GitHub decidesse di terminare il suo servizio di hosting, bisognerebbe trovare un provider dove caricare le pagine web; ciò inoltre richiederebbe agli utenti di installare Hugo e tutte le sue dipendenze.
 
 ## Conclusioni
 
-Discutere i risultati ottenuti, verificando se gli obiettivi definiti dai casi d'uso siano pienamente o parzialmente raggiunti. Evidenziare gli aspetti nei quali si sono raggiunti i risultati più soddisfacenti e le limitazioni emerse.
+I risultati raggiunti portano a pensare che questo tipo di prodotto potrebbe semplificare una parte del lavoro di giornalisti e divulgatori scientifici, seppure limitato ai soli articoli riportati sul WebBook. Se non sono presenti gli articoli o gli argomenti cercati, allora bisogna pensare di procurarseli senza l'ausilio del prodotto editoriale sviluppato per il progetto.
 
 ## Bibliografia e sitografia
 
-Elencare i riferimenti bibliografici e risorse online che hanno maggiormente contribuito alla realizzazione del progetto. Ad esempio [@sechi2010,@pantieri2021,@ceravolo2023]
+[@Hugo,@GitHubActions,@ceravolo2023, @GoogleScholar, @Zenoto, @PubMedCentra]
