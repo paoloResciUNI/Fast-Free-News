@@ -1,7 +1,7 @@
 ---
 title: "Cambiamento climatico"
 date: 2025-07-03
-draft: true
+draft: false
 ---
 
 # Breve introduzione 
