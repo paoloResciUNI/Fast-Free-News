@@ -1,6 +1,7 @@
 ---
 title: "Home"
 ---
-Fast Free News
+# Fast Free News :newspaper:
 
-![logo](/img/logo.png)
+![logo](/Fast-Free-News/img/logo.png)
+
