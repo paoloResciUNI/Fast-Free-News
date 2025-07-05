@@ -63,6 +63,12 @@ Si è preso come standard di riferimento la pubblicazione di post su social come
 Presentare i canali di distribuzione che si intendono raggiugnere e i formati dati richiesti da ogni canale. Esempi di canali sono: (i) Web, (ii) Social, (iii) Market place, (iv) Intranet. Esempi di formati. (i) Word, (ii) ePub, (iii) CBZ, (iv) PDF, (v) WebBook. 
 Proporre alcuni accenni relativi all'identità visuale e alle regole tipografiche o di stile che si intendono seguire. Nel settore esistono classi di documento standard? Dati gli obiettivi è importante trasmettere un senso di adesione a modelli già conosciuti o un senso di innovazione? Lo stile sarà orientato verso un'espressione formale o informale?
 
+I canali di distribuzione per questo prodotto sono: 
+
+- **News letter**: Il web book è perfettamente adatto per questo canale di distribuzione, dove è possibile comunicare vari aggiornamenti relativi all’aggiunta di contenuti sul sito. 
+- **Social media**: il web book, pur non essendo direttamente fruibile sulla maggior parte delle piattaforme social più diffuse, può essere publicizzato 
+- **Blog**:
+
 ## Processo di Produzione
 
 ### Acquisizione dei contenuti

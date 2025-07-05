@@ -1,8 +1,7 @@
 ---
 title: "Cambiamento climatico"
 date: 2025-07-03
-draft: false
-
+draft: true
 ---
 
 # Breve introduzione 
@@ -14,7 +13,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 >
 >  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 >
-> [The other climate crisis](https://www.nature.com/articles/s41586-025-08680-1)
+> [Climate Change and Society](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-121919-054614)
 
 > ### Sintesi divulgativa
 >
