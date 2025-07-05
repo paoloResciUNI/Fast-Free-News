@@ -1,7 +1,7 @@
 ---
 title: "Home"
 ---
-# Fast Free News :newspaper:
+# Fast Free News 🗞️
 
-![logo](/Fast-Free-News/img/logo.png)
+<img src="/Fast-Free-News/img/logo.png" alt="logo" width="200" />
 
