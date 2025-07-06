@@ -28,11 +28,11 @@ Il progetto è un facsimile di come potrebbe essere un prodotto editoriale di co
 ## Ideazione
 
 ### Tema
-Il progetto presenta un modo comodo e veloce per cercare gli articoli più di tendenza di un macro argomento, che si possono consultare e riutilizzare per la produzione di altri contenuti editoriali.
+Viene presentato un modo comodo e veloce per cercare gli articoli più di tendenza di un macro argomento, che si possono consultare e riutilizzare per la produzione di altri contenuti editoriali.
 
 La possibilità di prendere informazioni direttamente dalle fonti, in qualunque momento, rende la consultazione delle pagine e degli articoli molto più rapida.
 
-Inoltre, per ogni link ipertestuale ci sono brevi riassunti concisi che comunicano gli argomenti trattati nello specifico all’interno dell’articolo.
+Per ogni link ipertestuale, che fa riferimento agli articoli, ci sono brevi riassunti concisi che comunicano gli argomenti trattati nello specifico all’interno dell’articolo.
 
 ### Destinatari
 #### Alessandro
@@ -63,18 +63,21 @@ Il modello di fruizione segue un approccio non lineare. Infatti, gli utenti salt
 Si è preso come standard di riferimento la pubblicazione di post su social come X o Threads; la differenza con queste piattaforme è il pubblico di riferimento, che è meno ampio. Inoltre, gli utenti che fruiscono del web book non possono aggiungervi contenuti o commenti, per garantire la qualità del progetto.     
 
 ### Canali di distribuzione
-Presentare i canali di distribuzione che si intendono raggiugnere e i formati dati richiesti da ogni canale. Esempi di canali sono: (i) Web, (ii) Social, (iii) Market place, (iv) Intranet. Esempi di formati. (i) Word, (ii) ePub, (iii) CBZ, (iv) PDF, (v) WebBook. 
-Proporre alcuni accenni relativi all'identità visuale e alle regole tipografiche o di stile che si intendono seguire. Nel settore esistono classi di documento standard? Dati gli obiettivi è importante trasmettere un senso di adesione a modelli già conosciuti o un senso di innovazione? Lo stile sarà orientato verso un'espressione formale o informale?
-
 I canali di distribuzione, richiesti nella traccia, per questo prodotto sono: 
 
-- **News letter**: il web book è perfettamente adatto per questo canale di distribuzione, dove è possibile comunicare vari aggiornamenti relativi all’aggiunta di contenuti sul sito. 
-- **Social media**: il web book, pur non essendo direttamente fruibile sulla maggior parte delle piattaforme social più diffuse, può essere pubblicizzato su di esse.
+- **News letter**: il WebBook è perfettamente adatto per questo canale di distribuzione, dove è possibile comunicare vari aggiornamenti relativi all’aggiunta di contenuti sul sito. 
+- **Social media**: il WebBook, pur non essendo direttamente fruibile sulla maggior parte delle piattaforme social più diffuse, può essere pubblicizzato su di esse.
 - **Blog**: il formato scelto è ideale per la pubblicazione su blog o siti web, in parte perché il prodotto segue un modello di aggiornamento e fruizione simile a questo tipo di canali.   
 
-Il formato principale di visualizzazione dei contenuti è il WebBook che per funzionare ha bisogno di pagine in markdown da poter convertire nei post del sito. 
+Il contenuto basato su pagine web può anche essere distribuito semplicemente da un motore di ricerca, cercando il link che porta direttamente al sito web.
 
-Come accennato nella sezione precedente, l’identità visuale del prodotto è pensata per essere il più semplice e fruibile possibile utilizzando uno dei temi forniti direttamente da Hugo, ovvero [PaperMod](https://github.com/adityatelange/hugo-PaperMod). Questo rende il prodotto più *anonimo* e formale, ma essendo un portale di consultazione di fonti aperte non mi è sembrato necessario dargli una forte identità visuale.    
+ I formati scelti per la distribuzione e la fruizione dei contenuti sono stati:
+
+- il WebBook, formato scelto per la sua alta accessibilità e facilità di aggiornamento
+
+- file markdown, con il quale sono scritte le pagine del WebBook
+
+Come accennato nella sezione precedente, l’identità visuale del prodotto è pensata per essere il più semplice e fruibile possibile utilizzando uno dei temi forniti direttamente da Hugo, ovvero [<u>PaperMod</u>](https://github.com/adityatelange/hugo-PaperMod). Questo rende il prodotto più *anonimo* e formale, ma essendo un portale di consultazione di fonti aperte non mi è sembrato necessario dargli una forte identità visuale.    
 
 ## Processo di Produzione
 
@@ -87,17 +90,21 @@ Per prendere gli articoli che sono stati inseriti nel progetto sono stati utiliz
 - **PubMed Central **
 - **Unpaywall**: un’estensione per web browser che permette di determinare, nella maggior parte dei casi, se gli articoli visualizzati sono open-access o meno.
 
-L’inserimento di contenuti all’interno della piattaforma deve essere eseguito manualmente, quindi non è un processo automatico. 
+L’inserimento di contenuti all’interno della piattaforma deve essere eseguito manualmente, quindi non è un processo automatico (il che comporta dei costi). 
 
 ### Gestione documentale
 
 ```mermaid
 graph LR
-A(Selezione dei contenuti) -- Verifica della licenza open-access --> B(Stesura del riassunto dell'articolo)
-B --> D{Pubblicazione articolo sul WebBook}
-D --> E(Condivisione del web book su piattafoprme social)
-D --> F(Condivisione del web book su blog)
-D --> G(Condivisione del web book su newsletter)
+A(Selezione dei contenuti) -- Verifica della licenza open-access --> H{ }
+H -- L'articolo è open-access --> B(Stesura del riassunto dell'articolo)
+H -- L'articolo non è open-access --> I((Articolo
+scartato))
+B --> C(Pubblicazione articolo sul WebBook)
+C --> D{ }
+D --> E([Condivisione del web book su piattafoprme social])
+D --> F([Condivisione del web book su blog])
+D --> G([Condivisione del web book su newsletter])
 ```
 
 ### Tecnologie adottate
@@ -109,14 +116,14 @@ Le tecnologie adottate sono state:
 
 Il web book è stato scelto perché, data la sua natura portabile, si presta bene al compito assegnato per il progetto ed essendo una tecnologia relativamente recente e ancora in espansione, è adattabile a diverse esigenze di pubblicazione.
 
-Per la produzione del web book è stato utilizzato [Hugo](https://github.com/gohugoio/hugo), che permette di trasformare le pagine markdown in "post" da inserire all’interno del web book, consentendo di visualizzare pagine HTML statiche, e [GitHub Actions](https://docs.github.com/en/actions), che permette di ospitare il web book e di modificarlo senza installare Hugo e le sue dipendenze.
+Per la produzione del web book è stato utilizzato <u>[Hugo](https://github.com/gohugoio/hugo)</u>, che permette di trasformare le pagine markdown in "post" da inserire all’interno del web book, consentendo di visualizzare pagine HTML statiche, e <u>[GitHub Actions](https://docs.github.com/en/actions)</u>, che permette di ospitare il web book e di modificarlo senza installare Hugo e le sue dipendenze.
 
-Per l‘utilizzo delle GitHub Actions è stato impiegato il [workflow](https://docs.github.com/en/actions/concepts/workflows-and-actions/about-workflows) di Hugo fornito direttamente da GitHub, poi modificato in base alle esigenze del progetto.
+Per l‘utilizzo delle GitHub Actions è stato impiegato il <u>[workflow](https://docs.github.com/en/actions/concepts/workflows-and-actions/about-workflows)</u> di Hugo fornito direttamente da GitHub, poi modificato in base alle esigenze del progetto.
 
 ### Esecuzione del flusso
 
-- [Link alla repo del progetto](https://github.com/paoloResciUNI/Fast-Free-News)
-- [Link al WebBook](https://paoloresciuni.github.io/Fast-Free-News/)
+- <u>[Link alla repo del progetto](https://github.com/paoloResciUNI/Fast-Free-News)</u>
+- <u>[Link al WebBook](https://paoloresciuni.github.io/Fast-Free-News/)</u>
 
 ## Valutazione dei risultati raggiunti
 
