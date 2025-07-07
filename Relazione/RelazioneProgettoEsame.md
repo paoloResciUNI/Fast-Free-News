@@ -41,11 +41,15 @@ Alessandro ha 23 anni, è giornalista di Gallarate Tomorrow, specializzato in ar
 
 Alessandro guarda molto i social media per restare aggiornato e si informa soprattutto online cercando articoli scientifici di medicina pubblicati da ricercatori in tutto il mondo.
 
+[Link alla scheda di Alessandro](https://www.hubspot.com/make-my-persona?persona=-OU_xQTuAX3hP5jr39nL)
+
 #### Roberta
 
 Roberta ha 46 anni, è giornalista presso Il Sole 24 Ore, specializzata soprattutto nello spiegare l'impatto economico che hanno le nuove tecnologie.
 
 Roberta si informa soprattutto sul campo e dalle fonti fisiche e dalle conoscenze; ovviamente, per restare aggiornata non può fare a meno di consultare gli articoli pubblicati online. Usa poco i social media, se non per svago.
+
+[Link alla scheda di Roberta](https://www.semrush.com/persona/share/9CMUPKIwT3t7-cGz_rpqq9y1jIJ_9JQ2rK5uYRv5J2s/)
 
 #### Sandro
 
@@ -56,6 +60,8 @@ Sandro ha molti contatti nel contesto universitario e consulta molto il web per 
 Tutte le personas considerate per lo svolgimento del progetto sono individui che ne trarrebbero molti vantaggi (soprattutto Sandro).
 
 La possibilità di informarsi in maniera libera e di consultare direttamente le fonti è un vantaggio notevole per le personas considerate, considerando anche il fatto che molto probabilmente quelle fonti le useranno per i loro progetti editoriali.
+
+[Scheda di sandro](sandro.md)
 
 ### Modello di fruizione
 Il modello di fruizione segue un approccio non lineare. Infatti, gli utenti saltano da un articolo all’altro attraverso i collegamenti ipertestuali. Questo tipo di modello di fruizione mi sembra adeguato per il target di utenti elencati nella traccia del progetto. Il portale dal quale si può accedere ai link è pensato per essere graficamente il più semplice e navigabile possibile, per marcare il concetto di semplicità della piattaforma di reperimento dei contenuti.
