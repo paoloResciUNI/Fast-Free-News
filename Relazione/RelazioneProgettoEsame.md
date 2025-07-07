@@ -61,7 +61,7 @@ Tutte le personas considerate per lo svolgimento del progetto sono individui che
 
 La possibilità di informarsi in maniera libera e di consultare direttamente le fonti è un vantaggio notevole per le personas considerate, considerando anche il fatto che molto probabilmente quelle fonti le useranno per i loro progetti editoriali.
 
-[Scheda di sandro](sandro.md)
+[Scheda di sandro](https://github.com/paoloResciUNI/Fast-Free-News/blob/main/Relazione/sandro.md)
 
 ### Modello di fruizione
 Il modello di fruizione segue un approccio non lineare. Infatti, gli utenti saltano da un articolo all’altro attraverso i collegamenti ipertestuali. Questo tipo di modello di fruizione mi sembra adeguato per il target di utenti elencati nella traccia del progetto. Il portale dal quale si può accedere ai link è pensato per essere graficamente il più semplice e navigabile possibile, per marcare il concetto di semplicità della piattaforma di reperimento dei contenuti.
