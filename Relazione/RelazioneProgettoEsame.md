@@ -9,9 +9,6 @@ version: 0.1
 kind: Document
 bibliography: bibliografia.bib
 csl: IEEE.csl
-geometry: top=1.5cm,left=2cm,right=2cm,bottom=1.5cm
-papersize: a4
-fontsize: 13
 lang: it-IT
 ---
 
